@@ -40,7 +40,21 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Development
 
 - Create/add merchant, retailer, store owner backend
-- Web3 integrations
+- Create/add Network (blockchain)
+- Create/add/edit invoice features. Send
+- Create/add customer support
+- Create/add wallet features
+- Create/add API
+- Create/add devnet/testnet/mainnet features
+- Create/add products and categories
+- Create/add product cards
+- Create/add Settings features
+- Create/add/edit User. Owner/Mercant account features
+- Create/add/edit Consumers
+- Create/add/support product and inventory management
+- Web3 paynments integrations
+- Create/add technical and contact support
 - Add SolanaPay support
 - Add StreamPay brand assets
 - Create/add useSidebarLinks
+- Other important features etc...
