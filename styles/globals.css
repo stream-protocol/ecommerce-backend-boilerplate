@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+@tailwind base;
+@layer base {
+	*::-webkit-scrollbar {
+		width: 0;
+	}
+	body {
+		@apply min-h-screen font-poppins bg-discord-dark;
+		--tw-text-opacity: 1;
+		color: rgb(51 51 51 / var(--tw-text-opacity));
+		background-position: top;
+		background-repeat: no-repeat;
+		background-size: 100%;
+		/* text-transform: lowercase; */
+		/*background-image: url('/images/wavesbg.png');*/
+	}
+}
+@tailwind components;
+@tailwind utilities;
