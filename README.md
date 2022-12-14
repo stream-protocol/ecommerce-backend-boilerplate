@@ -41,6 +41,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 - Create/add merchant, retailer, store owner backend
 - Create/add POS payments features
+- Create/add POS payments systems, devices and equipments features
 - Create/add banking and card payments features
 - Create/add network (blockchain)
 - Create/add/edit invoice features
